@@ -1,5 +1,5 @@
 numpy
 pandas
-scikit-learm
-matplotlab
+scikit-learn
+matplotlib
 seaborn
